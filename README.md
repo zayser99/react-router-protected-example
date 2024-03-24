@@ -1,0 +1,1 @@
+# Example of how to protect routes with React-Router
